@@ -1,0 +1,7 @@
+0.  pneumonoultramicroscopicsilicovolcanoconiosis is lung diease
+1.  for resource usage -> children
+2.  16
+3.  Passed by reference, use same variale. Passed by value, different variables.
+4.  TODO
+5.  TODO
+6.  TODO
